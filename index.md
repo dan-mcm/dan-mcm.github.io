@@ -1,8 +1,7 @@
+[/](about.md)
 ---
 title: Home Page
 ---
-
-# Daniel McMahon
 
 ## Skill Breakdown
 - 10% Luck
