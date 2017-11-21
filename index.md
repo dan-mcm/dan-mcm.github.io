@@ -1,3 +1,7 @@
+---
+title: Home Page
+---
+
 # Daniel McMahon
 
 ## Skill Breakdown
