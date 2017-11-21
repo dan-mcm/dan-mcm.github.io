@@ -1,7 +1,8 @@
-[/](about.md)
 ---
 title: Home Page
 ---
+[Home](index.md)
+[About](about.md)
 
 ## Skill Breakdown
 - 10% Luck
